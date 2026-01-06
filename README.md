@@ -1,4 +1,4 @@
-# Terraform GCP Cloud Run Module
+# Run Forge – Terraform Driven GCP Cloud Run Infrastructure                                                  
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -190,6 +190,3 @@ output "nginx_url" {
 | service-endpoint | The URL of the deployed Cloud Run service                      |
 | service-account  | The email of the service account used by the Cloud Run service |
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
